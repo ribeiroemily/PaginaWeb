@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(80, 26, 131);
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(61, 24, 24);
+}
